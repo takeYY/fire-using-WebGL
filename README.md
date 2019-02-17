@@ -9,8 +9,8 @@ Visual Studio Codeで開発・動作確認済み
 
 ## 使い方
 統合ターミナルで  
->npm install  
-その後,　f5で実行  
+npm install  
+node_modulesファイルが作られたことを確認後,　f5で実行  
 
 マウスドラッグでカメラ操作  
 マウスホイールでズームイン/アウト
